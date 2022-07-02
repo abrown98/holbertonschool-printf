@@ -14,7 +14,7 @@ int main(void)
 	printf("%d\n", result);
 
 	result = x % y;
-	printf("%d\n", result);
+	printf("%i\n", result);
 
 	return 0;
 }

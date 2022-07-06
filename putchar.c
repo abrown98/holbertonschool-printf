@@ -1,6 +1,10 @@
 #include <unistd.h>
 
+/**
+ * return c to standard output
+ *
+ */
+
 int putchar(char c)
 {
-write(1, &c, 1)
-}
+return (write(1, &c, 1)

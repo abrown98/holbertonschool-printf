@@ -8,8 +8,5 @@ typedef struct myStructure
 	'd', print_dec
 	'c', print_char
 	'i', print_int
-	's', print_str
-	
-	
+	's', print_str	
 #endif
-
